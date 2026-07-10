@@ -1,5 +1,7 @@
 ### Membership Circuits
 
+The paper can be found [here](Wittelsbach26-Membership_Circuits_Tractable_Membership_Testing_Probabilistic_Circuits.pdf).
+
 Have questions or comments? Want to discuss the paper or the general topic? Reach out!
 Contact: bennet.wittelsbach@tu-darmstadt.de
 
