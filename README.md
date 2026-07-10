@@ -1,5 +1,8 @@
 ### Membership Circuits
 
+Have questions or comments? Want to discuss the paper or the general topic? Reach out!
+Contact: bennet.wittelsbach@tu-darmstadt.de
+
 This repository contains the code for the paper "Membership Circuits: Tractable Membership Testing via Probabilistic Circuits". MCs are a novel type of Probabilistic Circuits that provide formal guarantees on a hypothesis test regarding the membership of multivariate observations in learned distributions.
 
 The required packages can be easily installed using uv.
